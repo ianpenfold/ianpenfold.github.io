@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My test post
+published: true
 date: 2017-05-12
 categories: [blogging]
 tags: [blogging]
