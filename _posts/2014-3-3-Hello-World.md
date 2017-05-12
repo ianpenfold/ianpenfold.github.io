@@ -8,3 +8,5 @@ Next you can update your site name, avatar and other options using the _config.y
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 Well that was *easy*
+
+###**Too easy**
