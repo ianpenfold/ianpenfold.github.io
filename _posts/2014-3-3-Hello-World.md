@@ -9,4 +9,4 @@ Next you can update your site name, avatar and other options using the _config.y
 
 Well that was *easy*
 
-###**Too easy**
+**Too easy**
